@@ -53,14 +53,14 @@ Create Product
 json
 POST /api/v1/products
 {
-  "name": "Laptop"
+  "name": "Edi"
 }
 
 Update Product
 json
 PUT /api/v1/products/1
 {
-  "name": "Updated Laptop",
+  "name": "Updated Edi",
   "id": 1
 }
 
