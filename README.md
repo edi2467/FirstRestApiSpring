@@ -53,14 +53,14 @@ Create Product
 json
 POST /api/v1/products
 {
-  "name": "Laptop"
+  "name": "Edi"
 }
 
 Update Product
 json
 PUT /api/v1/products/1
 {
-  "name": "Updated Laptop",
+  "name": "Updated Edi",
   "id": 1
 }
 
@@ -124,16 +124,16 @@ You can test using:
 📸 Screenshots
 
  1️⃣ Application Running
- [Spring Initializr](FirstRestApiSpring/src/main/screenshots/AppRunning.png)
+ [Spring Initializr](src/main/Screenshot/AppRunning.png)
 
 2️⃣ Swagger UI - http://localhost:8080/swagger-ui/index.html
-![App Running](FirstRestApiSpring/src/main/screenshots/Swagger-UI.png)
+![App Running](src/main/Screenshot/Swagger-UI.png)
 
 3️⃣ H2 database console - localhost:8080/console
-[Database](FirstRestApiSpring/src/main/screenshots/H2-database.png)
+[Database](src/main/Screenshot/H2-database.png)
 
 4 Testing 
-[Testing](FirstRestApiSpring/src/main/screenshots/Testing.png)
+[Testing](src/main/Screenshot/Testing.png)
 
 
 
